@@ -1,0 +1,7 @@
+﻿  ex4_5.c
+C:\Users\허예진\source\repos\Data-Structure-Asgn\ch04_5\ex4_5.c(15,2): warning C4013: 'printf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\허예진\source\repos\Data-Structure-Asgn\ch04_5\ex4_5.c(29,2): warning C4013: 'getchar'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  LinkedPoly.c
+C:\Users\허예진\source\repos\Data-Structure-Asgn\ch04_5\LinkedPoly.c(7,17): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  코드를 생성하고 있습니다...
+  ch04_5.vcxproj -> C:\Users\허예진\source\repos\Data-Structure-Asgn\Debug\ch04_5.exe
